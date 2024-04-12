@@ -21,7 +21,3 @@ Pour plus d'informations sur le jeu, consultez le fichier [RapportProjetPP.pdf](
 
 ## Dépôt original
 Le dépôt original du projet est disponible sur : [https://gaufre.informatique.univ-paris-diderot.fr/vie/2022-os1-os1a-peegle](https://gaufre.informatique.univ-paris-diderot.fr/vie/2022-os1-os1a-peegle).
-
----
-
-N'hésitez pas à personnaliser les liens et les descriptions selon vos besoins.
